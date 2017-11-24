@@ -1,4 +1,4 @@
 str="hello"
-greet=" GiJung!" sfjslfjl
+greet=" GiJung!"
 str=str+greet
 print(str)
