@@ -1,4 +1,4 @@
 str="hello"
-greet=" world!!!!"
+greet=" GiJung!"
 str=str+greet
 print(str)
